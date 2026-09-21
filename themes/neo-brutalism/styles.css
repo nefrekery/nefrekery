@@ -21,6 +21,14 @@
   --language-switcher-shadow: 4px 4px 0 var(--shadow);
 }
 
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Arial', sans-serif;
+}
+
 /* Dark mode. Auto-switches via system appearance unless pinned via
    `color_scheme: light|dark` in config.yml.
    Brutalism on dark needs visible shadows: the trademark black drop-shadow
