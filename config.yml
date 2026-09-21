@@ -9,7 +9,7 @@
 # Theme — directory under ./themes/. Built-ins:
 #   default | minimal-mono | editorial-serif | neo-brutalism
 #   glassmorphism | terminal-retro | paper-card | newsprint
-theme: glassmorphism
+theme: neo-brutalism
 
 # HTML <html lang> attribute
 lang: "en"
@@ -83,7 +83,7 @@ google_analytics_id:
 # -----------------------------------------------------------------------------
 title: "ZhgChgLi's Links"
 avatar: "./images/profile.jpeg"
-name: "@zhgchgli"
+name: "@frekery"
 tagline: >-
     An iOS, web, and automation developer from Taiwan 🇹🇼 who also loves sharing, traveling, and writing.
     Followed by {{ vars.GithubProfilePlugin['ZhgChgLi'].followers }} on GitHub across {{ vars.GithubProfilePlugin['ZhgChgLi'].repos }} public repos.
@@ -204,10 +204,9 @@ socials:
 # Footer (uses CountdownPlugin)
 # -----------------------------------------------------------------------------
 footer: >
-    Hi there! Follow me on Medium or GitHub, or stay connected on Instagram or LinkedIn.
-    <br>linkyee has been live for {{ vars.CountdownPlugin.linkyee_release.days }} days. 🎉
+    sosiska. 🎉
 
 # Footer copyright message
 # Linkyee is a 100% free, open-source project—feel free to modify the copyright message as you like. :)
 copyright: >
-  © {{ year }} <a href="https://link.zhgchg.li" target="_blank">ZhgChgLi</a>. Powered by <a href="https://github.com/ZhgChgLi/linkyee" target="_blank">linkyee</a>
+  © {{ year }}
