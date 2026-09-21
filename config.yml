@@ -81,12 +81,11 @@ google_analytics_id:
 # -----------------------------------------------------------------------------
 # Profile header
 # -----------------------------------------------------------------------------
-title: "ZhgChgLi's Links"
+title: "My Links"
 avatar: "./images/chto to.gif"
 name: "@frekery"
 tagline: >-
-    An iOS, web, and automation developer from Taiwan 🇹🇼 who also loves sharing, traveling, and writing.
-    Followed by {{ vars.GithubProfilePlugin['ZhgChgLi'].followers }} on GitHub across {{ vars.GithubProfilePlugin['ZhgChgLi'].repos }} public repos.
+    Some info.
 
 # -----------------------------------------------------------------------------
 # Links
@@ -204,7 +203,7 @@ socials:
 # Footer (uses CountdownPlugin)
 # -----------------------------------------------------------------------------
 footer: >
-    sosiska. 🎉
+    sosiska 🎉
 
 # Footer copyright message
 # Linkyee is a 100% free, open-source project—feel free to modify the copyright message as you like. :)
