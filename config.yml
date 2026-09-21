@@ -98,11 +98,11 @@ tagline: >-
 # -----------------------------------------------------------------------------
 links:
   - link:
-      icon: "fa-solid fa-rss"
-      text: "Tech Blog <span class='link-button-text'>(120+ Posts)</span>"
-      url: "https://zhgchg.li"
-      alt: "ZhgChgLi Tech & Travel Blog"
-      title: "ZhgChgLi Tech & Travel Blog"
+      icon: "fa-brands fa-steam"
+      text: "Steam <span class='link-button-text'>(120+ Posts)</span>"
+      url: "https://steamcommunity.com/id/frekery/"
+      alt: "el huevo & Steam"
+      title: "el huevo & Steam"
       target: "_blank"
 
   # → uses GithubRepoStarsCountPlugin
