@@ -131,7 +131,7 @@ socials:
       icon: "fa-light fa-fish"
       url: "https://www.jetpunk.com/"
       title: "JetPunk"
-      alt: ""JetPunk"
+      alt: "JetPunk"
       target: "_blank"
       
   - social:
