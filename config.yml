@@ -136,6 +136,20 @@ links:
       alt: "linkyee is a fully customized, open-source LinkTree alternative deployed directly on GitHub Pages."
       title: "linkyee is a fully customized, open-source LinkTree alternative deployed directly on GitHub Pages."
       target: "_blank"
+- link:
+      icon: "fa-brands fa-github"
+      text: "linkyee <span class='link-button-text'>({{vars.GithubRepoStarsCountPlugin['ZhgChgLi/linkyee']}} ⭐ · last update {{ vars.GithubLastCommitPlugin['ZhgChgLi/linkyee'].date }})</span>"
+      url: "https://github.com/ZhgChgLi/linkyee"
+      alt: "linkyee is a fully customized, open-source LinkTree alternative deployed directly on GitHub Pages."
+      title: "linkyee is a fully customized, open-source LinkTree alternative deployed directly on GitHub Pages."
+      target: "_blank"
+  - link:
+      icon: "fa-brands fa-github"
+      text: "linkyee <span class='link-button-text'>({{vars.GithubRepoStarsCountPlugin['ZhgChgLi/linkyee']}} ⭐ · last update {{ vars.GithubLastCommitPlugin['ZhgChgLi/linkyee'].date }})</span>"
+      url: "https://github.com/ZhgChgLi/linkyee"
+      alt: "linkyee is a fully customized, open-source LinkTree alternative deployed directly on GitHub Pages."
+      title: "linkyee is a fully customized, open-source LinkTree alternative deployed directly on GitHub Pages."
+      target: "_blank"
 
   # → uses RSSFeedPlugin (latest blog post). `latest: true` opts into the
   #   theme's "LATEST" badge styling.
