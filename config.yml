@@ -108,23 +108,23 @@ links:
   # → uses GithubRepoStarsCountPlugin
   - link:
       icon: "fa-brands fa-steam-symbol"
-      text: "Steam <span class='link-button-text'>(1,323+ items)</span>"
+      text: "Shikimori <span class='link-button-text'>(1,323+ items)</span>"
       url: "https://steamcommunity.com/id/frekery/"
       alt: "el huevo & Steam"
       title: "el huevo & Steam"
       target: "_blank"
   
   - link:
-      icon: "fa-brands fa-steam-symbol"
-      text: "Steam <span class='link-button-text'>(1,323+ items)</span>"
+      icon: "fa-brands fa-imdb"
+      text: "IMDb <span class='link-button-text'>(1,323+ items)</span>"
       url: "https://steamcommunity.com/id/frekery/"
       alt: "el huevo & Steam"
       title: "el huevo & Steam"
       target: "_blank"
   
   - link:
-      icon: "fa-brands fa-steam-symbol"
-      text: "Steam <span class='link-button-text'>(1,323+ items)</span>"
+      icon: "fa-brands fa-discord"
+      text: "Discord <span class='link-button-text'>(1,323+ items)</span>"
       url: "https://steamcommunity.com/id/frekery/"
       alt: "el huevo & Steam"
       title: "el huevo & Steam"
@@ -133,8 +133,8 @@ links:
 
   # → uses GithubRepoStarsCountPlugin + GithubLastCommitPlugin
   - link:
-      icon: "fa-brands fa-steam-symbol"
-      text: "Steam <span class='link-button-text'>(1,323+ items)</span>"
+      icon: "fa-brands fa-telegram"
+      text: "Telegram <span class='link-button-text'>(1,323+ items)</span>"
       url: "https://steamcommunity.com/id/frekery/"
       alt: "el huevo & Steam"
       title: "el huevo & Steam"
