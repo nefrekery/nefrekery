@@ -116,26 +116,35 @@ links:
   
   - link:
       icon: "fa-brands fa-steam-symbol"
-      text: "ZReviewTender <span class='link-button-text'>({{vars.GithubRepoStarsCountPlugin['ZhgChgLi/ZReviewTender']}} Stars)</span>"
-      url: "https://github.com/ZhgChgLi/ZReviewTender"
-      alt: "ZReviewTender is a tool for fetching app reviews from the App Store and Google Play Console and integrating them into your workflow."
-      title: "ZReviewTender is a tool for fetching app reviews from the App Store and Google Play Console and integrating them into your workflow."
+      text: "Steam <span class='link-button-text'>(1,323+ items)</span>"
+      url: "https://steamcommunity.com/id/frekery/"
+      alt: "el huevo & Steam"
+      title: "el huevo & Steam"
       target: "_blank"
+  
   - link:
       icon: "fa-brands fa-steam-symbol"
-      text: "ZMediumToMarkdown <span class='link-button-text'>({{vars.GithubRepoStarsCountPlugin['ZhgChgLi/ZMediumToMarkdown']}} Stars)</span>"
-      url: "https://github.com/ZhgChgLi/ZMediumToMarkdown"
-      alt: "ZMediumToMarkdown is a powerful tool that allows you to effortlessly download and convert your Medium posts to Markdown format."
-      title: "ZMediumToMarkdown is a powerful tool that allows you to effortlessly download and convert your Medium posts to Markdown format."
+      text: "Steam <span class='link-button-text'>(1,323+ items)</span>"
+      url: "https://steamcommunity.com/id/frekery/"
+      alt: "el huevo & Steam"
+      title: "el huevo & Steam"
+      target: "_blank"
+
+- link:
+      icon: "fa-brands fa-steam-symbol"
+      text: "Steam <span class='link-button-text'>(1,323+ items)</span>"
+      url: "https://steamcommunity.com/id/frekery/"
+      alt: "el huevo & Steam"
+      title: "el huevo & Steam"
       target: "_blank"
 
   # → uses GithubRepoStarsCountPlugin + GithubLastCommitPlugin
   - link:
       icon: "fa-brands fa-steam-symbol"
-      text: "linkyee <span class='link-button-text'>({{vars.GithubRepoStarsCountPlugin['ZhgChgLi/linkyee']}} ⭐ · last update {{ vars.GithubLastCommitPlugin['ZhgChgLi/linkyee'].date }})</span>"
-      url: "https://github.com/ZhgChgLi/linkyee"
-      alt: "linkyee is a fully customized, open-source LinkTree alternative deployed directly on GitHub Pages."
-      title: "linkyee is a fully customized, open-source LinkTree alternative deployed directly on GitHub Pages."
+      text: "Steam <span class='link-button-text'>(1,323+ items)</span>"
+      url: "https://steamcommunity.com/id/frekery/"
+      alt: "el huevo & Steam"
+      title: "el huevo & Steam"
       target: "_blank"
 
   # → uses RSSFeedPlugin (latest blog post). `latest: true` opts into the
