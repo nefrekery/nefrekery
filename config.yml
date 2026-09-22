@@ -142,24 +142,24 @@ socials:
       target: "_blank"
       
   - social:
-      icon: "fa-brands fa-twitter"
-      url: "https://twitter.com/zhgchgli"
-      title: "ZhgChgLi's Twitter"
-      alt: "ZhgChgLi's Twitter"
+      icon: "fa-regular fa-compass"
+      url: "https://travle.earth/"
+      title: "travle gamer"
+      alt: "travle gamer"
       target: "_blank"
       
   - social:
-      icon: "fa-brands fa-linkedin"
-      url: "https://www.linkedin.com/in/zhgchgli/"
-      title: "ZhgChgLi's LinkedIn"
-      alt: "ZhgChgLi's LinkedIn"
+      icon: "fa-solid fa-clapperboard"
+      url: "https://movies.whentaken.com/"
+      title: "whentaken movies"
+      alt: "whentaken movies"
       target: "_blank"
       
   - social:
-      icon: "fa-brands fa-instagram"
-      url: "https://www.instagram.com/zhgchgli/"
-      title: "Instagram"
-      alt: "ZhgChgLi's Instagram"
+      icon: "fa-regular fa-camera"
+      url: "https://www.chronophoto.app/"
+      title: "chronophoto"
+      alt: "chronophoto"
       target: "_blank"
       
   - social:
