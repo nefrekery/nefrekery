@@ -128,7 +128,7 @@ links:
 # -----------------------------------------------------------------------------
 socials:
   - social:
-      icon: "fa-light fa-fish"
+      icon: "fa-solid fa-fish-fins"
       url: "https://www.jetpunk.com/"
       title: "JetPunk"
       alt: "JetPunk"
