@@ -1,25 +1,7 @@
-# =============================================================================
-# linkyee — Site Configuration
-#
-# This file is rendered through Liquid: every {{ ... }} below is evaluated
-# at build time. Plugin output lives under `vars.<PluginName>` — see
-# `plugins/README.md` for the full plugin developer wiki.
-# =============================================================================
 
-# Theme — directory under ./themes/. Built-ins:
-#   default | minimal-mono | editorial-serif | neo-brutalism
-#   glassmorphism | terminal-retro | paper-card | newsprint
+# -----------------------------------------------------------------------------
 theme: neo-brutalism
-
-# HTML <html lang> attribute
 lang: "en"
-
-# Force a color scheme regardless of the visitor's system appearance:
-#   auto  — follow OS (default; the page auto-switches between light/dark)
-#   light — always render light mode
-#   dark  — always render dark mode
-# Note: dark-first themes (e.g. terminal-retro) ignore "light" — their
-# whole identity is the dark palette.
 color_scheme: light
 
 # -----------------------------------------------------------------------------
@@ -146,35 +128,40 @@ links:
 # -----------------------------------------------------------------------------
 socials:
   - social:
-      icon: "fa-brands fa-medium"
-      url: "https://blog.zhgchg.li"
-      title: "ZhgChgLi's Medium"
-      alt: "ZhgChgLi's Medium"
+      icon: "fa-light fa-fish"
+      url: "https://www.jetpunk.com/"
+      title: "JetPunk"
+      alt: ""JetPunk"
       target: "_blank"
+      
   - social:
-      icon: "fa-brands fa-github"
-      url: "https://github.com/ZhgChgLi"
-      title: "ZhgChgLi's GitHub"
-      alt: "ZhgChgLi's GitHub"
+      icon: "fa-solid fa-arrow-trend-up"
+      url: "https://magnitudle.com/"
+      title: "Magnitudle"
+      alt: "Magnitudle"
       target: "_blank"
+      
   - social:
       icon: "fa-brands fa-twitter"
       url: "https://twitter.com/zhgchgli"
       title: "ZhgChgLi's Twitter"
       alt: "ZhgChgLi's Twitter"
       target: "_blank"
+      
   - social:
       icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/zhgchgli/"
       title: "ZhgChgLi's LinkedIn"
       alt: "ZhgChgLi's LinkedIn"
       target: "_blank"
+      
   - social:
       icon: "fa-brands fa-instagram"
       url: "https://www.instagram.com/zhgchgli/"
       title: "Instagram"
       alt: "ZhgChgLi's Instagram"
       target: "_blank"
+      
   - social:
       icon: "fa-solid fa-envelope"
       url: "mailto:zhgchgli@gmail.com"
@@ -189,6 +176,5 @@ footer: >
     Pudge signed this page 🎉
 
 # Footer copyright message
-# Linkyee is a 100% free, open-source project—feel free to modify the copyright message as you like. :)
 copyright: >
   © {{ year }}
