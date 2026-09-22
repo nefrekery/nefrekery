@@ -4,11 +4,11 @@
   --muted: #2a2a2a;
   --card: #ffffff;
   --shadow: #000000;
-  --c1: #ff5a5f;
+  --c1: #1f3662;
   --c2: #ffd166;
-  --c3: #4ecdc4;
+  --c3: #f5c618;
   --c4: #5d8bf4;
-  --c5: #c77dff;
+  --c5: #30a7de;
   --sans: 'Space Grotesk', 'Inter', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif;
   --display: 'Archivo Black', 'Space Grotesk', 'Inter', sans-serif;
   --language-switcher-bg: var(--card);
