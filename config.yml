@@ -115,7 +115,7 @@ links:
 
   - link:
       icon: "fa-brands fa-imdb"
-      text: "IMDb <span class='link-button-text'>(177+)</span>"
+      text: "IMDb <span class='link-button-text'>(177+ titles)</span>"
       url: "https://www.imdb.com/user/p.kxwsn2odjunvezmlsmleqjujbi?ref_=tt_nv_profile"
       alt: "frekery & IMDb"
       title: "frekery & IMDb"
