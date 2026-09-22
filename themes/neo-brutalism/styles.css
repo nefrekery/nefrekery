@@ -145,9 +145,9 @@ a { color: inherit; text-decoration: none; }
   transition: transform 0.12s ease, box-shadow 0.12s ease, background 0.12s ease;
 }
 
-.link-button:nth-child(5n+1) { background: var(--c1); }
-.link-button:nth-child(5n+2) { background: var(--c2); }
-.link-button:nth-child(5n+3) { background: var(--c3); }
+.link-button:nth-child(5n+1) { background: var(--c1); color: #fff; }
+.link-button:nth-child(5n+2) { background: var(--c2); color: #fff; }
+.link-button:nth-child(5n+3) { background: var(--c3); color: #fff; }
 .link-button:nth-child(5n+4) { background: var(--c4); color: #fff; }
 .link-button:nth-child(5n+5) { background: var(--c5); color: #fff; }
 
