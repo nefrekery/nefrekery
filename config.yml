@@ -125,7 +125,7 @@ links:
 
   - link:
       icon: "fa-brands fa-telegram"
-      text: "Telegram <span class='link-button-text'>(1,323+ items)</span>"
+      text: "Telegram <span class='link-button-text'> </span>"
       url: "https://t.me/frekery"
       alt: "frekery & telegram"
       title: "frekery & telegram"
@@ -133,7 +133,7 @@ links:
 
   - link:
       icon: "fa-brands fa-imdb"
-      text: "IMDb <span class='link-button-text'>(1,323+ items)</span>"
+      text: "IMDb <span class='link-button-text'>(177+)</span>"
       url: "https://www.imdb.com/user/p.kxwsn2odjunvezmlsmleqjujbi?ref_=tt_nv_profile"
       alt: "frekery & IMDb"
       title: "frekery & IMDb"
