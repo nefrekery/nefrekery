@@ -98,7 +98,7 @@ tagline: >-
 # -----------------------------------------------------------------------------
 links:
   - link:
-      icon: "fa-brands fa-steam"
+      icon: "fa-brands fa-steam-symbol"
       text: "Steam <span class='link-button-text'>(1,323+ items)</span>"
       url: "https://steamcommunity.com/id/frekery/"
       alt: "el huevo & Steam"
@@ -108,20 +108,21 @@ links:
   # → uses GithubRepoStarsCountPlugin
   - link:
       icon: "fa-brands fa-steam-symbol"
-      text: "ZMarkupParser <span class='link-button-text'>({{vars.GithubRepoStarsCountPlugin['ZhgChgLi/ZMarkupParser']}} Stars)</span>"
-      url: "https://github.com/ZhgChgLi/ZMarkupParser"
-      alt: "ZMarkupParser is a pure-Swift library that helps you to convert HTML strings to NSAttributedString with customized style and tags."
-      title: "ZMarkupParser is a pure-Swift library that helps you to convert HTML strings to NSAttributedString with customized style and tags."
+      text: "Steam <span class='link-button-text'>(1,323+ items)</span>"
+      url: "https://steamcommunity.com/id/frekery/"
+      alt: "el huevo & Steam"
+      title: "el huevo & Steam"
       target: "_blank"
+  
   - link:
-      icon: "fa-brands fa-app-store-ios"
+      icon: "fa-brands fa-steam-symbol"
       text: "ZReviewTender <span class='link-button-text'>({{vars.GithubRepoStarsCountPlugin['ZhgChgLi/ZReviewTender']}} Stars)</span>"
       url: "https://github.com/ZhgChgLi/ZReviewTender"
       alt: "ZReviewTender is a tool for fetching app reviews from the App Store and Google Play Console and integrating them into your workflow."
       title: "ZReviewTender is a tool for fetching app reviews from the App Store and Google Play Console and integrating them into your workflow."
       target: "_blank"
   - link:
-      icon: "fa-brands fa-markdown"
+      icon: "fa-brands fa-steam-symbol"
       text: "ZMediumToMarkdown <span class='link-button-text'>({{vars.GithubRepoStarsCountPlugin['ZhgChgLi/ZMediumToMarkdown']}} Stars)</span>"
       url: "https://github.com/ZhgChgLi/ZMediumToMarkdown"
       alt: "ZMediumToMarkdown is a powerful tool that allows you to effortlessly download and convert your Medium posts to Markdown format."
@@ -130,7 +131,7 @@ links:
 
   # → uses GithubRepoStarsCountPlugin + GithubLastCommitPlugin
   - link:
-      icon: "fa-brands fa-github"
+      icon: "fa-brands fa-steam-symbol"
       text: "linkyee <span class='link-button-text'>({{vars.GithubRepoStarsCountPlugin['ZhgChgLi/linkyee']}} ⭐ · last update {{ vars.GithubLastCommitPlugin['ZhgChgLi/linkyee'].date }})</span>"
       url: "https://github.com/ZhgChgLi/linkyee"
       alt: "linkyee is a fully customized, open-source LinkTree alternative deployed directly on GitHub Pages."
@@ -145,16 +146,6 @@ links:
       url: "{{ vars.RSSFeedPlugin['https://en.zhgchg.li/feed.xml'][0].url }}"
       alt: "Latest blog post by ZhgChgLi"
       title: "Latest blog post"
-      target: "_blank"
-      latest: true
-
-  # → uses YouTubeChannelLatestVideoPlugin
-  - link:
-      icon: "fa-brands fa-youtube"
-      text: "{{ vars.YouTubeChannelLatestVideoPlugin['@zhgchgli'].title }}"
-      url: "{{ vars.YouTubeChannelLatestVideoPlugin['@zhgchgli'].url }}"
-      alt: "Latest YouTube video"
-      title: "Latest YouTube video"
       target: "_blank"
       latest: true
 
