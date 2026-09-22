@@ -156,7 +156,7 @@ socials:
       target: "_blank"
       
   - social:
-      icon: "fa-regular fa-camera"
+      icon: "fa-solid fa-camera"
       url: "https://www.chronophoto.app/"
       title: "chronophoto"
       alt: "chronophoto"
