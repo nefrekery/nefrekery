@@ -98,11 +98,11 @@ tagline: >-
 # -----------------------------------------------------------------------------
 links:
   - link:
-      icon: "fa-brands fa-steam-symbol"
+      icon: "fa-brands fa-zhihu"
       text: "Shikimori <span class='link-button-text'>(1,323+ items)</span>"
-      url: "https://steamcommunity.com/id/frekery/"
-      alt: "el huevo & Steam"
-      title: "el huevo & Steam"
+      url: "https://shikimori.io/frekery"
+      alt: "frekery & Anime List"
+      title: "frekery & Anime List"
       target: "_blank"
 
   - link:
