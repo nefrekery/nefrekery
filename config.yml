@@ -99,28 +99,20 @@ tagline: >-
 links:
   - link:
       icon: "fa-brands fa-steam-symbol"
+      text: "Shikimori <span class='link-button-text'>(1,323+ items)</span>"
+      url: "https://steamcommunity.com/id/frekery/"
+      alt: "el huevo & Steam"
+      title: "el huevo & Steam"
+      target: "_blank"
+
+  - link:
+      icon: "fa-brands fa-steam-symbol"
       text: "Steam <span class='link-button-text'>(1,323+ items)</span>"
       url: "https://steamcommunity.com/id/frekery/"
       alt: "el huevo & Steam"
       title: "el huevo & Steam"
       target: "_blank"
 
-  # → uses GithubRepoStarsCountPlugin
-  - link:
-      icon: "fa-brands fa-steam-symbol"
-      text: "Shikimori <span class='link-button-text'>(1,323+ items)</span>"
-      url: "https://steamcommunity.com/id/frekery/"
-      alt: "el huevo & Steam"
-      title: "el huevo & Steam"
-      target: "_blank"
-  
-  - link:
-      icon: "fa-brands fa-imdb"
-      text: "IMDb <span class='link-button-text'>(1,323+ items)</span>"
-      url: "https://steamcommunity.com/id/frekery/"
-      alt: "el huevo & Steam"
-      title: "el huevo & Steam"
-      target: "_blank"
   
   - link:
       icon: "fa-brands fa-discord"
@@ -131,7 +123,6 @@ links:
       target: "_blank"
 
 
-  # → uses GithubRepoStarsCountPlugin + GithubLastCommitPlugin
   - link:
       icon: "fa-brands fa-telegram"
       text: "Telegram <span class='link-button-text'>(1,323+ items)</span>"
@@ -140,16 +131,15 @@ links:
       title: "el huevo & Steam"
       target: "_blank"
 
-  # → uses RSSFeedPlugin (latest blog post). `latest: true` opts into the
-  #   theme's "LATEST" badge styling.
   - link:
-      icon: "fa-solid fa-newspaper"
-      text: "{{ vars.RSSFeedPlugin['https://en.zhgchg.li/feed.xml'][0].title }}"
-      url: "{{ vars.RSSFeedPlugin['https://en.zhgchg.li/feed.xml'][0].url }}"
-      alt: "Latest blog post by ZhgChgLi"
-      title: "Latest blog post"
+      icon: "fa-brands fa-imdb"
+      text: "IMDb <span class='link-button-text'>(1,323+ items)</span>"
+      url: "https://steamcommunity.com/id/frekery/"
+      alt: "el huevo & Steam"
+      title: "el huevo & Steam"
       target: "_blank"
-      latest: true
+
+
 
 # -----------------------------------------------------------------------------
 # Social media buttons
